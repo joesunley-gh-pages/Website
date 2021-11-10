@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" width="500" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <path d="M 124.681 210.295 L 168.941 286.957 L 80.42 286.957 L 124.681 210.295 Z" style="fill-rule: nonzero; stroke: rgb(166, 38, 255); stroke-width: 6px; fill: none;" transform="matrix(0.804759, 0.593601, -0.593601, 0.804759, 153.098132, 131.122591)" bx:shape="triangle 80.42 210.295 88.521 76.662 0.5 0 1@946496aa"/>
+  <path d="M 108.421 318.976 L 26.29 318.976 L 67.356 247.848 Z M 28.022 317.976 L 106.689 317.976 L 67.356 249.848 Z" style="fill: none;" transform="matrix(0.804759, 0.593601, -0.593601, 0.804759, 181.38428, 15.351254)"/>
+  <path d="M 108.421 318.976 L 26.29 318.976 L 67.356 247.848 Z M 28.022 317.976 L 106.689 317.976 L 67.356 249.848 Z" style="fill: none;" transform="matrix(0.804759, 0.593601, -0.593601, 0.804759, 181.38428, 15.351254)"/>
+  <circle style="stroke: rgb(166, 38, 255); stroke-width: 6px; fill: none;" cx="220.97" cy="255.196" r="42.534"/>
+  <line style="stroke-width: 6px; stroke: rgb(166, 38, 255); paint-order: fill;" x1="124.852" y1="379.526" x2="193.46" y2="288.487"/>
+  <circle style="stroke: rgb(166, 38, 255); stroke-width: 6px; fill: none;" cx="429.172" cy="113.068" r="42.534"/>
+  <circle style="stroke: rgb(166, 38, 255); stroke-width: 6px; fill: none;" cx="385.76" cy="342.654" r="42.534"/>
+  <g transform="matrix(1.101025, 0, 0, 1.101025, -129.376711, -303.103154)" style="">
+    <circle style="stroke: rgb(166, 38, 255); stroke-width: 6px; fill: none;" cx="201.975" cy="362.566" r="40.653"/>
+    <circle style="stroke: rgb(166, 38, 255); stroke-width: 6px; fill: none;" cx="202.227" cy="362.312" r="30.796"/>
+  </g>
+  <line style="stroke-width: 6px; stroke: rgb(166, 38, 255); paint-order: fill;" x1="258.101" y1="276.664" x2="345.891" y2="321.507" transform="matrix(-1, 0, 0, -1, 603.992013, 598.171029)"/>
+  <line style="stroke-width: 6px; stroke: rgb(166, 38, 255); paint-order: fill;" x1="393.199" y1="300.916" x2="421.176" y2="154.776"/>
+  <line style="stroke-width: 6px; paint-order: fill; fill: rgb(166, 38, 255); stroke: rgb(166, 38, 255); stroke-dasharray: 30px; stroke-dashoffset: -22px;" x1="137.731" y1="97.764" x2="387.782" y2="110.806"/>
+  <text style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 20.6px;" x="52.115" y="27.202"> </text>
+</svg>
